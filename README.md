@@ -3,4 +3,4 @@ Trying to find the optimal relief distribution after the earthquake with Genetic
 Ipynb file include two different classes for Genetic Algorithm and Particle Swarm Optimization. 
 
 
-[report](Report-IEEE.pdf)
+[IEEE Report for this project](Report-IEEE.pdf)
